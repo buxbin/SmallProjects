@@ -1,7 +1,7 @@
 # Small Projects Collection
 
-A collection of my small Java projects.
+A collection of my small basic Java projects.
 
 ## Projects Included
 
-- 🏦 ATM - A simple ATM with PIN authentication
+- ATM - A simple ATM with PIN authentication
