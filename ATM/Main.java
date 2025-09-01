@@ -1,4 +1,4 @@
-package bankautomat;
+package atm;
 
 import java.util.ArrayList;
 import java.util.List;
