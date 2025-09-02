@@ -4,4 +4,5 @@ A collection of my small basic Java projects.
 
 ## Projects Included
 
-- ATM - A simple ATM with PIN authentication
+- atm - A simple ATM with PIN authentication
+- library - A library management system with book borrowing/returning
