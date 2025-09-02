@@ -7,3 +7,4 @@ A collection of my small basic Java projects.
 - atm - A simple ATM with PIN authentication
 - library - A library management system with book borrowing/returning
 - todo - A console todo list with file persistence
+- studentmanagement - A student management system with grade calculator
